@@ -2,11 +2,12 @@ import Race from './Race';
 
 class Halfling extends Race {
   private static instances = 0;
+  private _maxLifePoints = 60;
 
   constructor(
     name: string, 
     dexterity: number,
-    private _maxLifePoints: number = 60,
+    
   ) {
     super(name, dexterity);
     Halfling.instances += 1;
