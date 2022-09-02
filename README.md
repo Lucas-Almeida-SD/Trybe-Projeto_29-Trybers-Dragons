@@ -19,9 +19,9 @@ Nesse projeto o objetivo foi aplicar os princípios da arquitetura SOLID e os pr
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone git@github.com:Lucas-Almeida-SD/Trybe-Projeto_28-Trybesmith.git
+$ git clone git@github.com:Lucas-Almeida-SD/Trybe-Projeto_29-Trybers_and_Dragons.git
 
-$ cd Trybe-Projeto_28-Trybesmith
+$ cd Trybe-Projeto_29-Trybers_and_Dragons
 ```
 
 Para iniciá-lo, siga os passos abaixo:
