@@ -1,16 +1,57 @@
-# 🚧 README em construção 🚧
+# Projeto Trybers & Dragons
 
-<!-- Olá, Tryber!
+Esse projeto foi realizado para exercitar o que foi aprendido no Bloco 27 do Módulo de Back End do curso da [Trybe](https://www.betrybe.com/), no qual foi sobre `Programação Orientada a Objetos (POO)` e os princípios `SOLID`.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Nesse projeto o objetivo foi aplicar os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
 
-É essencial que você preencha esse documento por conta própria, ok?
+## Tecnologias
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+  - Node.js
+  - TypeScript
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+## Páticas adotadas
 
--->
+  - POO
+  - SOLID
+
+## Como executar
+
+Clone o projeto e acesse a pasta do mesmo.
+
+```bash
+$ git clone git@github.com:Lucas-Almeida-SD/Trybe-Projeto_28-Trybesmith.git
+
+$ cd Trybe-Projeto_28-Trybesmith
+```
+
+Para iniciá-lo, siga os passos abaixo:
+
+<details>
+  <summary><strong>Com Docker</strong></summary>
+
+  ```bash
+  # Criar container
+  $ docker-compose up -d
+
+  # Abrir terminal interativo do container
+  $ docker exec -it trybers_and_dragons bash
+
+  # Instalar as dependências
+  $ npm install
+
+  # Iniciar o projeto
+  $ npm start
+  ```
+</details>
+
+<details>
+  <summary><strong>Sem Docker</strong></summary>
+
+  ```bash
+  # Instalar as dependências
+  $ npm install
+
+  # Iniciar o projeto
+  $ npm start
+  ```
+</details>
