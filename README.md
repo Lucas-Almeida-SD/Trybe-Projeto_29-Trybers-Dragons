@@ -9,7 +9,7 @@ Nesse projeto o objetivo foi aplicar os princípios da arquitetura SOLID e os pr
   - Node.js
   - TypeScript
 
-## Páticas adotadas
+## Práticas adotadas
 
   - POO
   - SOLID
